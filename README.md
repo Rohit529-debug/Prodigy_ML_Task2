@@ -1,9 +1,8 @@
 Prodigy_ML_CustomerSegmentation_Task2
-
 This repository contains a Python implementation of K-means clustering for customer segmentation based on their purchase history. The dataset used is the "Mall Customers" dataset from Kaggle.
 
 Dataset
-The dataset can be downloaded from https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python It contains the following features:
+The dataset can be downloaded from Kaggle: Customer Segmentation. It contains the following features:
 
 CustomerID: Unique ID assigned to the customer
 Gender: Gender of the customer
